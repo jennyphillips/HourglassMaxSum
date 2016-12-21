@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1482281837 source:/home/jenny/CodingPractice/C++/HourglassSumArray2D/main.cpp
+	<map>
+	<set>
+	<list>
+	<cmath>
+	<ctime>
+	<deque>
+	<queue>
+	<stack>
+	<string>
+	<bitset>
+	<cstdio>
+	<limits>
+	<vector>
+	<climits>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<numeric>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<unordered_map>
+
